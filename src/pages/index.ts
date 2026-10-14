@@ -1,0 +1,8 @@
+export { default as DashboardPage } from './DashboardPage'
+export { default as AuthPage } from './AuthPage'
+export { default as FavouritesPage } from './FavouritesPage'
+export { default as HomePage } from './HomePage'
+export { default as LoginPage } from './LoginPage'
+export { default as ProfilePage } from './ProfilePage'
+export { default as SchedulePage } from './SchedulePage'
+export { default as SignupPage } from './SignupPage'

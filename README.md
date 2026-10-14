@@ -28,6 +28,7 @@ Useful commands:
 | `npm run dev:server` | Starts only the Express API in watch mode. |
 | `npm run build` | Type-checks the frontend and API, then creates `dist/`. |
 | `npm run typecheck:server` | Type-checks the API only. |
+| `npm start` | Starts the compiled Express API after building. |
 | `npm run preview` | Serves the built app locally so you can preview it. |
 | `npm run lint` | Checks the project with Oxlint. |
 
